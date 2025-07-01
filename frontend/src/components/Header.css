@@ -1,0 +1,40 @@
+.header-container {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+}
+
+.logo-wrapper {
+  display: flex;
+  align-items: center;
+}
+
+.logo-circle {
+  background-color: white;
+  border-radius: 50%;
+  padding: 10px;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+  margin-right: 8px;
+}
+
+.logo-circle img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+.logo-text {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.logo-text .skill {
+  color: black;
+}
+
+.logo-text .mate {
+  color: #28a745;
+}
