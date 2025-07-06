@@ -62,6 +62,26 @@ On Mac/Linux
 The backend will start on http://localhost:5000
 
 
+🛠 Available Frontend Scripts
+Inside the frontend/ directory, you can run:
+
+npm start
+Runs the app in development mode. Open http://localhost:3000 to view it in your browser.
+
+npm test
+Launches the test runner in interactive watch mode.
+
+npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+npm run eject
+Note: This is a one-way operation. Once you eject, you can’t go back!
+
+This command will copy all the configuration files and dependencies like Webpack, Babel, and ESLint into your project. All commands except eject will still work but will use the copied configuration. This gives you full control over the project setup.
+
+You never have to use eject, and the default setup works well for small and medium-sized projects.
+
 📚 Learn More
 Create React App Docs
 
