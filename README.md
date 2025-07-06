@@ -93,6 +93,15 @@ You never have to use eject, and the default setup works well for small and medi
 ### 📝 Register & Login Page
 ![Register Page](https://github.com/Naveens1656/Student_Assistant/blob/55736a9cb8a2efae3108394ebd75d2da9c33dd84/Student%20Assistant%20Vault/Screenshot%202025-06-16%20195807.png)
 
+### ⚛️ Frontend Server Running (React)
+![Frontend Server Running](https://github.com/Naveens1656/Student_Assistant/blob/96374f037348a37576009e8933900283c07c50e4/Student%20Assistant%20Vault/Screenshot%202025-06-12%20182039.png)
+
+### 🐍 Backend Server Running (Flask)
+![Backend Server Running](https://github.com/Naveens1656/Student_Assistant/blob/96374f037348a37576009e8933900283c07c50e4/Student%20Assistant%20Vault/Screenshot%202025-06-12%20182022.png)
+
+### 🗂️ Chatbot Dashboard with Sidebar
+![Dashboard Sidebar](https://github.com/Naveens1656/Student_Assistant/blob/96374f037348a37576009e8933900283c07c50e4/Student%20Assistant%20Vault/Screenshot%202025-07-03%20191255.png)
+
 
 
 
