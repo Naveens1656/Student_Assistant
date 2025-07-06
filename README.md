@@ -1,36 +1,59 @@
+# Student Assistant - AI Powered Chatbot
+
+This project is built with **React** (frontend) and **Flask** (backend), designed to help students with an AI-powered chatbot.  
+Made with ❤️ by **Naveen S at Skillmate AI**
+
+---
+
 ## 🚀 Getting Started
 
+### 1. Run the Frontend (React)
 
 
-## 1. Run the Frontend (React)
 cd student-assistant
 cd frontend
 npm install
 npm start
 Runs the app in development mode.
 
-Open http://localhost:3000 to view it in the browser.
+Open http://localhost:3000 to view it in your browser.
 
-The page will reload when changes are made.
+The page will reload automatically when you make changes.
 
-## 2. Run the Backend (Flask)
+2. Run the Backend (Flask)
 
 cd student-assistant
 cd backend
-venv\Scripts\activate  # On Windows
- OR
-source venv/bin/activate  # On Mac/Linux
+
+# On Windows
+venv\Scripts\activate
+
+# On Mac/Linux
+source venv/bin/activate
 
 python app.py
 The backend will start on http://localhost:5000
 
 🛠 Available Frontend Scripts
+Inside the frontend/ directory, you can run:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+npm start
+Runs the app in development mode. Open http://localhost:3000 to view it in your browser.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+npm test
+Launches the test runner in interactive watch mode.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+npm run build
+Builds the app for production to the build folder.
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+npm run eject
+Note: This is a one-way operation. Once you eject, you can’t go back!
+
+This command will copy all the configuration files and dependencies like Webpack, Babel, and ESLint into your project. All commands except eject will still work but will use the copied configuration. This gives you full control over the project setup.
+
+You never have to use eject, and the default setup works well for small and medium-sized projects.
+
 
 ## Learn More
 
