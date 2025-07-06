@@ -90,14 +90,8 @@ You never have to use eject, and the default setup works well for small and medi
 ### 📱 Mobile Chatbot UI
 ![Mobile Chatbot](https://github.com/Naveens1656/Student_Assistant/blob/1ee60aff873955da609d2aa029eb11b43bd05bdc/Student%20Assistant%20Vault/Screenshot%202025-06-23%20214413.png)
 
-### 📷 Screenshots
-1️⃣ Desktop Chatbot Interaction
-![Alt Text](
-)
-
-2️⃣ Mobile Chatbot UI
-![Alt Text]()
-
+### 📝 Register & Login Page
+![Register Page](https://github.com/Naveens1656/Student_Assistant/blob/55736a9cb8a2efae3108394ebd75d2da9c33dd84/Student%20Assistant%20Vault/Screenshot%202025-06-16%20195807.png)
 
 
 
