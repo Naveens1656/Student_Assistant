@@ -82,6 +82,11 @@ This command will copy all the configuration files and dependencies like Webpack
 
 You never have to use eject, and the default setup works well for small and medium-sized projects.
 
+### 📷 Screenshots
+![Alt Text]([path/to/image.png](https://github.com/Naveens1656/Student_Assistant/blob/8a4bb36d4b65b4be6e3d3a88da307cae4f4095b1/Student%20Assistant%20Vault/Screenshot%202025-06-09%20204759.png
+))
+https://github.com/Naveens1656/Student_Assistant/blob/8a4bb36d4b65b4be6e3d3a88da307cae4f4095b1/Student%20Assistant%20Vault/Screenshot%202025-06-09%20204759.png
+
 📚 Learn More
 Create React App Docs
 
