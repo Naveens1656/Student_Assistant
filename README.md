@@ -1,90 +1,94 @@
-# Student Assistant - AI Powered Chatbot
+# 🎓 Student Assistant Web App
 
-This project is built with **React** (frontend) and **Flask** (backend), designed to help students with an AI-powered chatbot.  
-Made with ❤️ by **Naveen S at Skillmate AI**
+Welcome to **Student Assistant** — a simple full-stack web app built with **React** (frontend) and **Flask** (backend).  
+This project was created as part of my **30-day Full-Stack Developer Internship** at **Skillmate AI**.
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Project Overview
 
-### 1. Run the Frontend (React)
+The Student Assistant helps students learn programming topics through:
+- A **login system**.
+- A **topic-wise chatbot** for Python fundamentals.
+- An interactive dashboard.
+- Fun facts & daily programming quotes.
+- Clean UI with modern design.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React, HTML, CSS, JavaScript
+- **Backend:** Python, Flask, Flask-CORS
+- **Deployment:** Local development with Node & Python virtual environment
+
+---
+
+## 📂 Project Structure
+
+student-assistant/
+├── frontend/ # React app
+└── backend/ # Flask app (API)
 
 
-cd student-assistant
+
+## ✅ Getting Started
+
+### 1️⃣ Clone the Repository
+
+
+git clone https://github.com/Naveens1656/Student_Assistant.git
+cd Student_Assistant
+2️⃣ Run the Frontend (React)
+bash
+Copy
+Edit
 cd frontend
 npm install
 npm start
 Runs the app in development mode.
 
-Open http://localhost:3000 to view it in your browser.
+Open http://localhost:3000 to view it.
 
-The page will reload automatically when you make changes.
+The page reloads automatically on save.
 
-### 2. Run the Backend (Flask)
+3️⃣ Run the Backend (Flask)
 
-cd student-assistant
 cd backend
-
-On Windows
+# Create & activate virtual environment
+# On Windows:
 venv\Scripts\activate
-
-On Mac/Linux
+# On Mac/Linux:
 source venv/bin/activate
 
+# Install dependencies if needed
+pip install -r requirements.txt
+
+# Start the backend server
 python app.py
-The backend will start on http://localhost:5000
+The backend will start on http://localhost:5000.
 
-🛠 Available Frontend Scripts
-Inside the frontend/ directory, you can run:
+⚡ Available Frontend Scripts
+In the project directory, you can run:
 
-npm start
-Runs the app in development mode. Open http://localhost:3000 to view it in your browser.
+npm start — Runs the app in development mode.
 
-npm test
-Launches the test runner in interactive watch mode.
+npm run build — Builds the app for production.
 
-npm run build
-Builds the app for production to the build folder.
-It correctly bundles React in production mode and optimizes the build for the best performance.
+npm test — Runs tests.
 
-npm run eject
-Note: This is a one-way operation. Once you eject, you can’t go back!
+npm run eject — Ejects configuration (advanced).
 
-This command will copy all the configuration files and dependencies like Webpack, Babel, and ESLint into your project. All commands except eject will still work but will use the copied configuration. This gives you full control over the project setup.
+Note: You don’t have to use eject. The default configuration works well for small and medium projects.
 
-You never have to use eject, and the default setup works well for small and medium-sized projects.
+📚 Learn More
+Create React App Docs
 
+React Documentation
 
-## Learn More
+Flask Documentation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
---------------------------------------------------------------------------------------------------------------------------------
-
+🌟 Made With
 Made with ❤️ by Naveen S at Skillmate AI
+👉 GitHub Repo
+
