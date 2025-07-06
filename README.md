@@ -83,8 +83,14 @@ This command will copy all the configuration files and dependencies like Webpack
 You never have to use eject, and the default setup works well for small and medium-sized projects.
 
 ### 📷 Screenshots
+1️⃣ Desktop Chatbot Interaction
 ![Alt Text](https://github.com/Naveens1656/Student_Assistant/blob/8a4bb36d4b65b4be6e3d3a88da307cae4f4095b1/Student%20Assistant%20Vault/Screenshot%202025-06-09%20204759.png
 )
+
+2️⃣ Mobile Chatbot UI
+![Alt Text](https://github.com/Naveens1656/Student_Assistant/blob/1ee60aff873955da609d2aa029eb11b43bd05bdc/Student%20Assistant%20Vault/Screenshot%202025-06-23%20214413.png)
+
+
 
 
 
