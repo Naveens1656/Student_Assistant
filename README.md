@@ -26,32 +26,23 @@ The Student Assistant helps students learn programming topics through:
 
 ## 📂 Project Structure
 
-student-assistant/
-├── frontend/ # React app
-└── backend/ # Flask app (API)
+- student-assistant/
+- ├── frontend/ # React app
+- └── backend/ # Flask app (API)
 
 
 
 ## ✅ Getting Started
 
-### 1️⃣ Clone the Repository
-
-
-git clone https://github.com/Naveens1656/Student_Assistant.git
-cd Student_Assistant
-2️⃣ Run the Frontend (React)
-bash
-Copy
-Edit
+cd student-assistant
 cd frontend
 npm install
 npm start
 Runs the app in development mode.
 
-Open http://localhost:3000 to view it.
+Open http://localhost:3000 to view it in your browser.
 
-The page reloads automatically on save.
-
+The page will reload automatically when you make changes.
 3️⃣ Run the Backend (Flask)
 
 cd backend
