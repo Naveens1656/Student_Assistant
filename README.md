@@ -18,7 +18,7 @@ The page will reload when changes are made.
 cd student-assistant
 cd backend
 venv\Scripts\activate  # On Windows
-# OR
+ OR
 source venv/bin/activate  # On Mac/Linux
 
 python app.py
