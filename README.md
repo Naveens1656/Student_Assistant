@@ -104,6 +104,6 @@ React Documentation
 Flask Documentation
 
 🌟 Made With
-Made with ❤️ by Naveen S at Skillmate AI
-👉 GitHub Repo
+- Made with ❤️ by Naveen S at Skillmate AI
+
 
