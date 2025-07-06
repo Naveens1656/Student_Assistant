@@ -3,7 +3,7 @@
 
 
 ## 1. Run the Frontend (React)
-cd student-assistant\n
+cd student-assistant
 cd frontend
 npm install
 npm start
