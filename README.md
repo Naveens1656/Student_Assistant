@@ -20,19 +20,16 @@ Open http://localhost:3000 to view it in your browser.
 
 The page will reload automatically when you make changes.
 
-2. Run the Backend (Flask)
+### 2. Run the Backend (Flask)
 
 cd student-assistant
 cd backend
 
-# On Windows
+On Windows
 venv\Scripts\activate
 
-# On Mac/Linux
+On Mac/Linux
 source venv/bin/activate
-
-python app.py
-
 
 python app.py
 The backend will start on http://localhost:5000
