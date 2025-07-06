@@ -1,7 +1,8 @@
 ## 🚀 Getting Started
 
-1. Run the Frontend (React)
+
 ```bash
+#1. Run the Frontend (React)
 cd student-assistant
 cd frontend
 npm install
@@ -12,7 +13,7 @@ Open http://localhost:3000 to view it in the browser.
 
 The page will reload when changes are made.
 
-2. Run the Backend (Flask)
+#2. Run the Backend (Flask)
 bash
 Copy
 Edit
