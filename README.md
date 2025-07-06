@@ -1,7 +1,6 @@
 ## 🚀 Getting Started
 
-### 1. Run the Frontend (React)
-
+1. Run the Frontend (React)
 ```bash
 cd student-assistant
 cd frontend
