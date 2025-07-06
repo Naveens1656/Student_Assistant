@@ -34,43 +34,33 @@ The Student Assistant helps students learn programming topics through:
 
 ## ✅ Getting Started
 
-cd student-assistant
-cd frontend
-npm install
-npm start
-Runs the app in development mode.
+
+
+## 1. Run the Frontend (React)
+- cd student-assistant
+- cd frontend
+- npm install
+- npm start
+- Runs the app in development mode.
 
 Open http://localhost:3000 to view it in your browser.
 
 The page will reload automatically when you make changes.
-3️⃣ Run the Backend (Flask)
 
-cd backend
-# Create & activate virtual environment
-# On Windows:
-venv\Scripts\activate
-# On Mac/Linux:
-source venv/bin/activate
+##2. Run the Backend (Flask)
+- cd student-assistant
+- cd backend
 
-# Install dependencies if needed
-pip install -r requirements.txt
+On Windows
+- venv\Scripts\activate
 
-# Start the backend server
-python app.py
-The backend will start on http://localhost:5000.
+On Mac/Linux
+- source venv/bin/activate
 
-⚡ Available Frontend Scripts
-In the project directory, you can run:
+- python app.py
 
-npm start — Runs the app in development mode.
+The backend will start on http://localhost:5000
 
-npm run build — Builds the app for production.
-
-npm test — Runs tests.
-
-npm run eject — Ejects configuration (advanced).
-
-Note: You don’t have to use eject. The default configuration works well for small and medium projects.
 
 📚 Learn More
 Create React App Docs
