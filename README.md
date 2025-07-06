@@ -32,6 +32,9 @@ venv\Scripts\activate
 source venv/bin/activate
 
 python app.py
+
+
+python app.py
 The backend will start on http://localhost:5000
 
 🛠 Available Frontend Scripts
