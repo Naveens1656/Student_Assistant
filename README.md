@@ -103,7 +103,6 @@ React Documentation
 
 Flask Documentation
 
-🌟 Made With
-- Made with ❤️ by Naveen S at Skillmate AI
+🌟 Made With ❤️ by Naveen S at Skillmate AI
 
 
