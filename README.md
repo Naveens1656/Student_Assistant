@@ -47,7 +47,7 @@ Open http://localhost:3000 to view it in your browser.
 
 The page will reload automatically when you make changes.
 
-##2. Run the Backend (Flask)
+## 2. Run the Backend (Flask)
 - cd student-assistant
 - cd backend
 
