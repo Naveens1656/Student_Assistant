@@ -1,36 +1,32 @@
-# Getting Started with Create React App
+## 🚀 Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 1. Run the Frontend (React)
 
-## Available Scripts
+```bash
+cd student-assistant
+cd frontend
+npm install
+npm start
+Runs the app in development mode.
 
-In the project directory, you can run:
+Open http://localhost:3000 to view it in the browser.
 
-### `npm start`
+The page will reload when changes are made.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Run the Backend (Flask)
+bash
+Copy
+Edit
+cd student-assistant
+cd backend
+venv\Scripts\activate  # On Windows
+# OR
+source venv/bin/activate  # On Mac/Linux
 
-The page will reload when you make changes.
+python app.py
+The backend will start on http://localhost:5000
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🛠 Available Frontend Scripts
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
